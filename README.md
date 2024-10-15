@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atqa</h1>
-<h3 align="center">Flutter Developer & AI Engineer</h3>
+<h3 align="center"> AI Engineer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkbjFleDMwdDF3dnYweTJyOWM3bzl5YmQ5eGw5OGduaXU2OXlybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
@@ -19,15 +19,15 @@
 ---
 
 ### :woman_technologist: About Me :
- I am a Flutter Developer & AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+ I am an AI Engineer & flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - 🔭 I’m currently working on **AI and Flutter Apps**
 
-- 🌱 I’m currently learning **Cybersecurity, ML & AI**
+- 🌱 I’m currently learning **ML & AI**
 
-- 👯 I’m looking to collaborate on **Generative AI chatbots**
+- 👯 I’m looking to collaborate on **Generative AI Projects**
 
-- 💬 Ask me about **Flutter, AI, ML and Cybersecurity**
+- 💬 Ask me about ** AI, ML, LLM and Flutter**
 
 - 📫 How to reach me **atqarana@gmail.com**
 
