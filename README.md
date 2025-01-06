@@ -19,15 +19,15 @@
 ---
 
 ### :woman_technologist: About Me :
- I am an AI Engineer & flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+ I am an AI Engineer & developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- 🔭 I’m currently working on **AI and Flutter Apps**
+- 🔭 I’m currently working on **AI and Automations**
 
 - 🌱 I’m currently learning **ML & AI**
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
 
-- 💬 Ask me about ** AI, ML, LLM and Flutter**
+- 💬 Ask me about ** AI, ML, LLM and Code**
 
 - 📫 How to reach me **atqarana@gmail.com**
 
