@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkbjFleDMwdDF3dnYweTJyOWM3bzl5YmQ5eGw5OGduaXU2OXlybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/atqa-rana">
+  <a href="https://linkedin.com/in/atqa-rana">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@atqarana">
