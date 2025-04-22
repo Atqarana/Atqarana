@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
- I am an AI Engineer & developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+ I am an AI Engineer & developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m currently working on **AI and Automations**
 
