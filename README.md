@@ -50,12 +50,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
 </p>
-<a href="https://github.com/Atqarana"><img src="https://img.shields.io/github/followers/Atqarana?style=social" alt="GitHub Followers" /></a>
-<a href="https://www.linkedin.com/in/atqa-rana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </p>
-
 <hr style="border-color: #30363d;"/>
+<h2> Badges </h2>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Atqarana?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/forks/Atqarana?label=Forks&style=social" />
+  <img src="https://img.shields.io/github/contributors/Atqarana?label=Contributors&style=social" />
+  <img src="https://img.shields.io/github/last-commit/Atqarana?style=social" />
+</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
