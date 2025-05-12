@@ -43,11 +43,13 @@
 <h3 align="left"> 📊 GitHub Stats & Activity :</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=vue-dark&hide_border=true" width="49%" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atqarana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
 </p>
 
 <hr style="border-color: #30363d;"/>
