@@ -44,6 +44,8 @@
 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
 </p>
 <p align="center">
