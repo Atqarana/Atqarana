@@ -44,13 +44,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
 </p>
+<a href="https://github.com/Atqarana"><img src="https://img.shields.io/github/followers/Atqarana?style=social" alt="GitHub Followers" /></a>
+<a href="https://www.linkedin.com/in/atqa-rana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </p>
 
