@@ -46,10 +46,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
 </p>
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atqarana&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atqarana&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+
 
 </p>
 
