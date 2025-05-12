@@ -50,7 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
   
 </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=vue-dark&hide_border=true" /></p>
 
 </p>
 
