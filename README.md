@@ -22,8 +22,6 @@
 
 ### :woman_technologist: About Me :
  I am an AI Engineer & eveloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- ⚡ Fun fact ** I am Curious Soul**
   
 - 🚀 Working on **AI, Devoplement & Workflow Automations **
   
@@ -35,7 +33,7 @@
   
 - 📬 Reach me at **atqarana@gmail.com**
   
-- 🎯 Fun fact: I love solving problems and learning new tools
+- 🎯 Fun fact: I'm a **curious soul** who enjoys solving problems and experimenting with new tools
 
 
 ### :hammer_and_wrench: Languages and Tools :
