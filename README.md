@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atqarana&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atqarana&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="58%" />
 </p>
 
 
