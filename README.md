@@ -45,7 +45,7 @@
 <br>
 <h3 align="left">Github Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="50%"/>
 
 </p>
 
