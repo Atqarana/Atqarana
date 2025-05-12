@@ -53,13 +53,6 @@
 
 </p>
 <hr style="border-color: #30363d;"/>
-<h2> Badges </h2>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Atqarana?label=Stars&style=social" />
-  <img src="https://img.shields.io/github/forks/Atqarana?label=Forks&style=social" />
-  <img src="https://img.shields.io/github/contributors/Atqarana?label=Contributors&style=social" />
-  <img src="https://img.shields.io/github/last-commit/Atqarana?style=social" />
-</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
