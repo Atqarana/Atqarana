@@ -46,10 +46,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atqarana&layout=compact&theme=vue-dark&hide_border=true" width="40%" />
 </p>
-
+<!-- GitHub Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atqarana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atqarana&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 </p>
 
 <hr style="border-color: #30363d;"/>
