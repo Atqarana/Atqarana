@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,dart,flutter,firebase,aws,gcp,git,linux,figma" />
 </p>
 <br>
-<h3 align="left">Github Stats:</h3>
+<h3 align="left"> 📊 GitHub Stats & Activity :</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atqarana&theme=dark&hide_border=true" alt="GitHub Streak" width="50%"/>
 
@@ -51,12 +51,12 @@
 
 <hr style="border-color: #30363d;"/>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atqarana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atqarana" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="atqarana" height="30" width="40" /></a>
-<a href="https://kaggle.com/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atqarana" height="30" width="40" /></a>
-<a href="https://medium.com/@atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atqarana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atqarana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/atqarana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atqarana" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/atqa-rana"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/atqarana"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
+  <a href="https://medium.com/@atqarana"><img src="https://img.icons8.com/ios-filled/50/8b949e/medium-monogram.png" alt="Medium"/></a>
+  <a href="https://kaggle.com/atqarana"><img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle"/></a>
+  <a href="https://stackoverflow.com/users/atqarana"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow"/></a>
+</p>
 </p>
