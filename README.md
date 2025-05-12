@@ -2,10 +2,6 @@
 <h1 align="center" style="font-size: 2.5rem; margin-bottom: 0.5rem; color: #58a6ff;">Hi 👋, I'm Atqa</h1>
 <h3 align="center" style="color: #8b949e; font-weight: normal;">AI Engineer · Automation Expert · Developer</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius: 10px;"/>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkbjFleDMwdDF3dnYweTJyOWM3bzl5YmQ5eGw5OGduaXU2OXlybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
@@ -44,7 +40,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,cpp,java,dart,flutter,firebase,aws,gcp,git,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,java,dart,flutter,firebase,aws,gcp,git,linux,figma" />
 </p>
 <br>
 <h3 align="left">Github Stats:</h3>
