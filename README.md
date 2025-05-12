@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atqa</h1>
-<h3 align="center"> AI Engineer</h3>
+<h3 align="center"> AI Engineer & Developer </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZkbjFleDMwdDF3dnYweTJyOWM3bzl5YmQ5eGw5OGduaXU2OXlybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
@@ -19,22 +19,22 @@
 ---
 
 ### :woman_technologist: About Me :
- I am an AI Engineer & developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- 🔭 I’m currently working on **AI and Automations**
-
-- 🌱 I’m currently learning **ML & AI**
-
-- 👯 I’m looking to collaborate on **Generative AI Projects**
-
-- 💬 Ask me about ** AI, ML, LLM and Code**
-
-- 📫 How to reach me **atqarana@gmail.com**
+ I am an AI Engineer & eveloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - ⚡ Fun fact ** I am Curious Soul**
+  
+- 🚀 Working on **AI, Devoplement & Workflow Automations **
+  
+- 📚 Exploring **Generative AI** and **Large Learning Models**
 
+- 🤝 Open to collaborating on ** AI projects**
+  
+- 💬 Ask me about **AI, ML, Automation, LLMs, Full Stack Dev**
+  
+- 📬 Reach me at **atqarana@gmail.com**
+  
+- 🎯 Fun fact: I love solving problems and learning new tools
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
