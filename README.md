@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
- I am an AI Engineer & eveloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ I am an AI Engineer & Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   
 - 🚀 Working on **AI, Devoplement & Workflow Automations **
   
